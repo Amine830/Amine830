@@ -94,6 +94,8 @@ I am **seeking a work-study position in Web or Software Development** to strengt
   <img width="18"/>
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="50" alt="postman"/>
   <img width="18"/>
+  <img src="https://cdn.simpleicons.org/swagger/85EA2D" height="50" alt="swagger"/>
+  <img width="18"/>
   <img src="https://cdn-icons-png.flaticon.com/256/11681/11681340.png" height="50"/>
   <img width="18"/>
   <img src="https://cdn.simpleicons.org/graphql/E10098" height="50"/>
@@ -211,11 +213,16 @@ I am **seeking a work-study position in Web or Software Development** to strengt
   <img width="18"/>
   <img src="https://cdn.simpleicons.org/numpy/013243" height="50"/>
   <img width="18"/>
+  <img src="https://us1.discourse-cdn.com/flex024/uploads/plot/original/2X/9/9c4b4055f9bfb678045f46f8b689503422dbed75.png" height="50"/>
+  <img width="18"/>
+  <img src="https://www.educative.io/api/edpresso/shot/5096396179374080/image/5300591913336832" height="50"/>
+  <img width="18"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/250px-Matplotlib_icon.svg.png" height="50"/>
   <img width="18"/>
   <img src="https://cdn.simpleicons.org/jupyter/F37626" height="50"/>
   <img width="18"/>
   <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="50"/>
+  <img width="18"/>
 </div>
 
 <br clear="both">
@@ -227,11 +234,11 @@ I am **seeking a work-study position in Web or Software Development** to strengt
   <img width="18"/>
   <img src="https://cdn.simpleicons.org/yaml/CB171E" height="50"/>
   <img width="18"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/8705/8705508.png" height="50"/>
+  <img width="18"/>
   <img src="https://cdn.simpleicons.org/xml/FF6600" height="50"/>
   <img width="18"/>
   <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/markdown-4.png" height="50"/>
-  <img width="18"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/8705/8705508.png" height="50"/>
 </div>
 
 <br clear="both">
@@ -246,9 +253,12 @@ I am **seeking a work-study position in Web or Software Development** to strengt
   <img width="18"/>
   <img src="https://cdn.simpleicons.org/trello/0052CC" height="50" alt="trello"/>
   <img width="18"/>
-  <img src="https://cdn.simpleicons.org/slack/4A154B" height="50" alt="slack"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Microsoft_Teams.png" height="50" alt="trello"/>
   <img width="18"/>
-  <img src="https://cdn.simpleicons.org/swagger/85EA2D" height="50" alt="swagger"/>
+  <img src="https://static.vecteezy.com/system/resources/previews/068/764/321/non_2x/slack-circle-outline-logo-modern-tech-icon-for-app-projects-free-png.png" height="50" alt="slack"/>
+  <img width="18"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/RocketChat_Logo_1024x1024.png/250px-RocketChat_Logo_1024x1024.png" height="50" alt="trello"/>
+  <img width="18"/>
 </div>
 
 <br clear="both">
