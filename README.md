@@ -270,7 +270,7 @@ I am **seeking a work-study position in Web or Software Development** to strengt
 ![](https://nirzak-streak-stats.vercel.app/?user=Amine830&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amine830&theme=dark&card_width=600&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Amine830&theme=highcontrast&card_width=600)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Amine830&theme=highcontrast&card_width=600)
 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Amine830&theme=radical&no-frame=false&no-bg=false&margin-w=4)
